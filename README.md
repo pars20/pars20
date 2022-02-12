@@ -14,7 +14,7 @@
   نی نی وبلاگ؛ شبکه اجتماعی کودک و خانواده
 </h2>
 
-<img src="https://mindmade.ir/thm/up/kheimegah-screen-1400.jpg?1400" alt="طراحی جامعه مجازی؛ برنامه نویسی وب">
+<img src="https://mindmade.ir/thm/up/kheimegah-screen-1400.jpg?1400" alt="طراحی جامعه مجازی؛ برنامه نویسی وب" style="width:600px;">
 
 <h2>
   خیمه گاه؛ شبکه اجتماعی مذهبی
