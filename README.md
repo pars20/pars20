@@ -9,7 +9,7 @@
 </h4>
 
 <center>
-  <img src="https://mindmade.ir/thm/up/niniweblog-screen-1400.jpg?1" alt="نی نی وبلاگ جامعه مجازی کودکان ایران خاطره نویسی وبلاگ نویسی niniweblog.com" style="max-width:600px !important;">
+  <img src="https://mindmade.ir/thm/up/niniweblog-screen-1400.jpg?1" alt="نی نی وبلاگ جامعه مجازی کودکان ایران خاطره نویسی وبلاگ نویسی niniweblog.com" style="width:600px;">
 </center>
 
 <h2>
