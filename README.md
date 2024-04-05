@@ -17,16 +17,17 @@ Love programming, music, books, learning, and making shiny, useful websites.
     NiniWeblog: children and family social network & blogging service
 </h2>
 
-<h3>
+<h4>
   Top Skills:
-  <br>
+</h4>
+<h3>
   PHP, MySQL, JQuery, JavaScript, HTML, CSS, Bootstrap, Wordpress Development
 </h3>
 
 
-💜Portfolio in English:
+💜 Portfolio in English:
 www.MatisWeb.com/portfolio
 
 
-⚽️Portfolio in Persian:
+⚽️ Portfolio in Persian:
 www.MindMade.ir/portfolio
