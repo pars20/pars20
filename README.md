@@ -1,40 +1,25 @@
-# طراحی و توسعه وب سایت
+# Web developer and web designer
 
 <p>
-طراحی و برنامه نویسی وب
+A 36-year-old Web developer and designer from Iran, with more than 15 years of experience in web development.
+I have done development and technical support for online projects, based on freelancing and contract.
+Experienced in web development, in the both back-end and front-end sides.
+Love programming, music, books, learning, and making shiny, useful websites.
 </p>
 
 <h4>
-نمونه کارهای فعال:
+#1 Portfolio:
 </h4>
 
-  <img src="https://mindmade.ir/thm/up/niniweblog-screen-1400.jpg?1" alt="نی نی وبلاگ جامعه مجازی کودکان ایران خاطره نویسی وبلاگ نویسی niniweblog.com" style="width:600px;">
+  <img src="https://mindmade.ir/thm/up/niniweblog-screen-1400.jpg?1" alt="Blogging and Social Network for children: niniweblog.com" style="width:600px;">
 
 <h2>
-    نی نی وبلاگ؛ شبکه اجتماعی کودک و خانواده
-    / سرویس وبلاگدهی
+    NiniWeblog: children and family social network & blogging servicd
 </h2>
 
-<img src="https://mindmade.ir/thm/up/kheimegah-screen-1400.jpg?1400" alt="طراحی جامعه مجازی؛ برنامه نویسی وب" style="width:600px;">
 
-<h2>
-  خیمه گاه؛ شبکه اجتماعی مذهبی
-</h2>
+Portfolio in English:
+www.MatisWeb.com/portfolio
 
-<h2>
-  شبیه ساز آزمون زبان انگلیسی تافل تحت وب
-</h2>
-
-<h2>
-  آیدت: جامع مجازی متن محور؛ سرویسِ مقاله نویسی + فروشگاه دیجیتال
-    / سرویس وبلاگدهی
-</h2>
-
-<h2>
-  وبلاگ نویسی گروهی/سازمانی بلاگ ایران
-    / سرویس وبلاگدهی
-
-</h2>
-
-توضیحات تکمیلی را اینجا بخوانید:
-www.mindmade.ir/portfolio
+Portfolio in Persian:
+www.MindMade.ir/portfolio
